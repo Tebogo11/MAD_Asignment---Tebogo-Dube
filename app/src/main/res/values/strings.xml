@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PlacesToStay</string>
+    <string name="AddPlacesToStay">Add a Place to Stay</string>
+    <string name="setting">Preference</string>
+    <string name="labelname">Name :</string>
+    <string name="labeltype">Type :</string>
+    <string name="labelprice">Price :</string>
+    <string name="priceSign">£</string>
+    <string name="btnAddP">Submit PlaceToStay</string>
+    <string name="AutoUpload">Auto-Upload to Internal File</string>
+    <string name="AutoUploadsummary">Auto-upload new Places-To-Stay to the devices internal file</string>
+    <string name="AutoUploadonlinesummary">Auto upload new Places-To-Stay to online site for everyone to access</string>
+    <string name="AutoUploadonline">Auto-Upload to Online Site</string>
+    <string name="preferences">Preference</string>
+    <string name="onlyUsersPTS">Load Only The Users Places To Stay</string>
+    <string name="onlyUsersPTSsummary">This will only the users sumbitted Places to Stay if Enabled</string>
+</resources>

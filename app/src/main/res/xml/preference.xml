@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:key="autoUpload" android:defaultValue="true" android:title="@string/AutoUpload"
+        android:summary="@string/AutoUploadsummary" />
+
+    <CheckBoxPreference android:key="autoUploadonline" android:defaultValue="true" android:title="@string/AutoUploadonline"
+        android:summary="@string/AutoUploadonlinesummary" />
+
+    <CheckBoxPreference android:key="onlyUsersPTS" android:defaultValue="true" android:title="@string/onlyUsersPTS"
+        android:summary="@string/onlyUsersPTSsummary" />
+</PreferenceScreen>
